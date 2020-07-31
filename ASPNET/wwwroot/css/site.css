@@ -12,6 +12,14 @@ a {
   color: #0366d6;
 }
 
+.btn-div {
+   display:flex;
+   flex-direction:row;
+   justify-content:space-evenly;
+    width: 75%;
+    outline-color: red;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;
